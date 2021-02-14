@@ -1,9 +1,3 @@
-// Decompiled with JetBrains decompiler
-// Type: PlanetShine.Button
-// Assembly: PlanetShine, Version=0.2.6.1, Culture=neutral, PublicKeyToken=null
-// MVID: 3CC53F1C-E80D-404D-A347-CC0CC722C2E1
-// Assembly location: C:\Users\bentj\Desktop\New folder\PlanetShine\Plugins\PlanetShine.dll
-
 using System;
 using System.Reflection;
 using UnityEngine;
